@@ -1,4 +1,4 @@
-# Tweet Emotion Prediction 🎭
+# Sentence Emotion Prediction 🎭
 
 An LSTM-based deep learning model that predicts the emotion behind a piece of text, 
 with a live Gradio demo.
